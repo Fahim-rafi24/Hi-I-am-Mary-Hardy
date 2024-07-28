@@ -1,0 +1,16 @@
+nav{
+    display: flex;
+    padding-left: 15%;
+    padding-top: 3%;
+}
+nav ul{
+    margin-left: 50%;
+    display: flex;
+    
+}
+
+
+
+nav>ul li{
+    margin-left: 70px;
+}

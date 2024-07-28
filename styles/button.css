@@ -1,0 +1,42 @@
+
+
+
+button {
+    border: none;
+}
+
+
+
+.hireMe{
+    width: 150px;
+    height: 64px;
+    border-radius: 5px;
+    background-color: #FD6E0A ;
+    color: white;
+    font-size: medium;
+    font-weight: 600;
+}
+
+.download-cv-button{
+    width: 200px;
+    height: 64px;
+    border-radius: 5px;
+    color: aliceblue;
+    background-color: #FD6E0A;
+    font-size: 20px;
+    font-weight: 800px;
+    margin-top: 50px;
+}
+
+.contact-button{
+    width: 200px;
+    height: 64px;
+    border-radius: 5px;
+    color: #FD6E0A;
+    background-color: #FFF8F3;
+    font-size: 20px;
+    font-weight: 800px;
+    border: 1px solid #FD6E0A;
+    margin-top: 50px;
+    margin-left: 30px;
+}
